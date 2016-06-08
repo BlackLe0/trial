@@ -2,3 +2,6 @@ dog
 cat
 cow
 chimp
+cat (mitten)
+cat (inulino)
+cat (panini)
